@@ -5115,6 +5115,13 @@ h2.notes img{
         max-width:200px;
     }
 }
+
+#head-slider figure .title{
+    text-align: center;
+    color: #45b29a;
+    font-size: 200%;
+    font-family:brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
 #head-slider p.header-desc{
     text-align:center;
     color:#45b29a;

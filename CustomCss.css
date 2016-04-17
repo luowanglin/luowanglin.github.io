@@ -24,3 +24,15 @@
     text-decoration: none;
 }
 
+
+@font-face {
+    font-family: SnellRoundhand;
+    src: url('Font/Snell Roundhand Script.ttf');
+}
+
+#head-slider figure h1{
+    font-family: SnellRoundhand;
+    font-size: 200%;
+    color:#45b29a;
+    text-align: center;
+}
