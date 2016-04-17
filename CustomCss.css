@@ -1,0 +1,26 @@
+@font-face
+{
+    font-family: myFirstFont;
+    src: url('Font/汉仪.ttf');
+
+}
+
+
+.titleText ul li a{
+    font-family:myFirstFont;
+    /*font-size: 2em;*/
+}
+.textTest p{
+
+    font-family: myFirstFont;
+}
+
+.introduce{
+
+    font-family: myFirstFont;
+}
+
+.new-window{
+    text-decoration: none;
+}
+
